@@ -17,7 +17,11 @@ model.eval()
 
 def analyseImage():
 
-    image = Image.open("cDraw.png")
+    # Open image
+    try:
+        image = Image.open("cDraw.png")
+    except Exception as e:
+        print("Could not open image:", e)
 
     transform = transforms.Compose([
         transforms.Grayscale(num_output_channels=1),
