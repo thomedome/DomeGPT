@@ -9,6 +9,6 @@ My attempt into learning how ML functions, and integrating it into other systems
 
 ### Requirements
 pip install -r requirements.txt <br>
-run TrainModel.py beforehand to train the model.
+run /modules/TrainModel.py beforehand to train the model.
 
 Thanks for reading :)
