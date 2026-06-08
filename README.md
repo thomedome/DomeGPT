@@ -8,7 +8,7 @@ My attempt into learning how ML functions, and integrating it into other systems
 - Pygame drawing canvas
 
 ### Requirements
-pip install -r requirements.txt
+pip install -r requirements.txt <br>
 run TrainModel.py beforehand to train the model.
 
 Thanks for reading :)
