@@ -11,4 +11,4 @@ My attempt into learning how ML functions, and integrating it into other systems
 pip install -r requirements.txt
 run TrainModel.py beforehand to train the model.
 
-Thanks for reading:)
+Thanks for reading :)

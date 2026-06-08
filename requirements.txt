@@ -1,6 +1,5 @@
 torch
 torchvision
 matplotlib
-pillow
 pygame
 pygame-widgets
